@@ -81,8 +81,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#b8b8b8',
   },
   inputBox: {
-    marginTop: 50,
-    width: '80%',
+    marginTop: 40,
+    width: '85%',
     alignSelf: 'center',
     height: 40,
     textAlign: 'center',
@@ -90,11 +90,11 @@ const styles = StyleSheet.create({
     outline: 'none',
   },
   goButton: {
-    width: '50%',
+    width: '70%',
     height: 55,
     alignSelf: 'center',
     padding: 10,
-    margin: 10,
+    margin: 65,
   },
   buttonText: {
     textAlign: 'center',
@@ -102,8 +102,8 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   imageIcon: {
-    width: 150,
-    height: 150,
+    width: 180,
+    height: 190,
     marginLeft: 95,
   }
 });
